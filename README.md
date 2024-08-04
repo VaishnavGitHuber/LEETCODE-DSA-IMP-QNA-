@@ -8,6 +8,8 @@
    * Using Normal Concept -T -  O(n2) S - O(1)
    * Using Hashmap - T O(2n)  S O(n)
    * Moore's Algoritm of Majority votting - T O(n) S O(1) 
+5. ROMEN TO INT (04/08/2024)
+6. INT TO ROMEN (04/08/2024)
 
 ### HASH MAP
 1. TWO SUM(31/07/2024)
