@@ -4,7 +4,10 @@
 1. MERGE SORTED ARRAY(31/07/2024)
 2. REMOVE THE DUPLICATES(01/08/2024)
 3. REMOVE THE DUPLICATES FROM THE SORTED ARRAY (01/08/2024)
-4. MAJORITY ELEMENT(02/08/2024)
+4. MAJORITY ELEMENT(02/08/2024)\
+   * Using Normal Concept -T -  O(n2) S - O(1)
+   * Using Hashmap - T O(2n)  S O(n)
+   * Moore's Algoritm of Majority votting - T O(n) S O(1) 
 
 ### HASH MAP
 1. TWO SUM(31/07/2024)
